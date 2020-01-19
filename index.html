@@ -125,58 +125,6 @@
     
   </li>
   
-  <li class="hide-on-med-and-down nav-item">
-    
-    <a href="" class="waves-effect waves-light">
-
-      
-      <i class="fas fa-list" style="zoom: 0.6;"></i>
-      
-      <span>Medias</span>
-      <i class="fas fa-chevron-down" aria-hidden="true" style="zoom: 0.6;"></i>
-    </a>
-    <ul class="sub-nav menus_item_child ">
-      
-      <li>
-        <a href="/musics">
-          
-          <i class="fas fa-music" style="margin-top: -20px; zoom: 0.6;"></i>
-          
-          <span>Musics</span>
-        </a>
-      </li>
-      
-      <li>
-        <a href="/movies">
-          
-          <i class="fas fa-film" style="margin-top: -20px; zoom: 0.6;"></i>
-          
-          <span>Movies</span>
-        </a>
-      </li>
-      
-      <li>
-        <a href="/books">
-          
-          <i class="fas fa-book" style="margin-top: -20px; zoom: 0.6;"></i>
-          
-          <span>Books</span>
-        </a>
-      </li>
-      
-      <li>
-        <a href="/galleries">
-          
-          <i class="fas fa-image" style="margin-top: -20px; zoom: 0.6;"></i>
-          
-          <span>Galleries</span>
-        </a>
-      </li>
-      
-    </ul>
-    
-  </li>
-  
   <li>
     <a href="#searchModal" class="modal-trigger waves-effect waves-light">
       <i id="searchIcon" class="fas fa-search" title="搜索" style="zoom: 0.85;"></i>
@@ -276,61 +224,6 @@
 			
 			友情链接
 		</a>
-          
-        </li>
-        
-        <li class="m-nav-item">
-	  
-		<a href="javascript:;">
-			
-				<i class="fa-fw fas fa-list"></i>
-			
-			Medias
-			<span class="m-icon"><i class="fas fa-chevron-right"></i></span>
-		</a>
-            <ul  style="background:  ;" >
-              
-                <li>   
-				
-                  <a href="/musics " style="margin-left:75px";>
-				  
-				   <i class="fa fas fa-music" style="position: absolute;left:50px" ></i>
-			      
-		          <span>Musics</span>
-                  </a>
-                </li>
-              
-                <li>   
-				
-                  <a href="/movies " style="margin-left:75px";>
-				  
-				   <i class="fa fas fa-film" style="position: absolute;left:50px" ></i>
-			      
-		          <span>Movies</span>
-                  </a>
-                </li>
-              
-                <li>   
-				
-                  <a href="/books " style="margin-left:75px";>
-				  
-				   <i class="fa fas fa-book" style="position: absolute;left:50px" ></i>
-			      
-		          <span>Books</span>
-                  </a>
-                </li>
-              
-                <li>   
-				
-                  <a href="/galleries " style="margin-left:75px";>
-				  
-				   <i class="fa fas fa-image" style="position: absolute;left:50px" ></i>
-			      
-		          <span>Galleries</span>
-                  </a>
-                </li>
-               
-            </ul>
           
         </li>
         
@@ -608,6 +501,41 @@
 </div>
                     
 
+                    
+                        
+
+<link rel="stylesheet" href="/libs/aplayer/APlayer.min.css">
+<div class="music-player">
+    
+    <div class="title center-align">
+        <i class="fas fa-music"></i>&nbsp;&nbsp;听听音乐
+    </div>
+    
+    <div class="row">
+        <div class="col l8 offset-l2 m10 offset-m1 s12">
+            <div id="aplayer" class="music"></div>
+        </div>
+    </div>
+</div>
+
+<script src="/libs/aplayer/APlayer.min.js"></script>
+<script>
+$(function () {
+    new APlayer({
+        container: document.getElementById('aplayer'),
+        fixed: 'false' === 'true',
+        autoplay: 'false' === 'true',
+        theme: '#42b983',
+        loop: 'all',
+        order: 'list',
+        preload: 'auto',
+        volume: Number('0.7'),
+        listFolded: 'true' === 'true',
+        listMaxHeight: '',
+        audio: eval([{"name":"时光机","artist":"Jay Chou","url":"/medias/music/時光機.flac","cover":"/medias/music/魔杰座.jpg"},{"name":"稻香","artist":"Jay Chou","url":"/medias/music/稻香.flac","cover":"/medias/music/魔杰座.jpg"},{"name":"兰亭序","artist":"Jay Chou","url":"/medias/music/蘭亭序.flac","cover":"/medias/music/魔杰座.jpg"},{"name":"花海","artist":"Jay Chou","url":"/medias/music/花海.flac","cover":"/medias/music/魔杰座.jpg"},{"name":"给我一首歌的时间","artist":"Jay Chou","url":"/medias/music/給我一首歌的時間.flac","cover":"/medias/music/魔杰座.jpg"}])
+    });
+});
+</script>
                     
 
                     
