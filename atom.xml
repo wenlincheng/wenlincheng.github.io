@@ -76,4 +76,35 @@
     
   </entry>
   
+  <entry>
+    <title>数据库事务的隔离级别</title>
+    <link href="https://wenlincheng.com/2020/01/01/shu-ju-ku-shi-wu-de-ge-chi-ji-bie/"/>
+    <id>https://wenlincheng.com/2020/01/01/shu-ju-ku-shi-wu-de-ge-chi-ji-bie/</id>
+    <published>2020-01-01T11:20:00.000Z</published>
+    <updated>2020-01-20T08:06:26.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;数据库事务的隔离级别有4个，由低到高依次为&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Read uncommitted（读未提交）&lt;/li&gt;
+&lt;li&gt;Read committed（读提交）&lt;/li&gt;
+&lt;li&gt;Repeatable read
+        
+      
+    
+    </summary>
+    
+    
+      <category term="数据库" scheme="https://wenlincheng.com/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+      <category term="事务隔离级别" scheme="https://wenlincheng.com/tags/%E4%BA%8B%E5%8A%A1%E9%9A%94%E7%A6%BB%E7%BA%A7%E5%88%AB/"/>
+    
+  </entry>
+  
 </feed>
