@@ -967,30 +967,6 @@ code[class*="language-"], pre[class*="language-"] { white-space: pre !important;
 </script>
 
     
-{% elseif theme.gitalk.enable %}
-    <link rel="stylesheet" href="/libs/gitalk/gitalk.css">
-<link rel="stylesheet" href="/css/my-gitalk.css">
-
-<div class="card gitalk-card" data-aos="fade-up">
-    <div id="gitalk-container" class="card-content"></div>
-</div>
-
-<script src="/libs/gitalk/gitalk.min.js"></script>
-<script>
-    let gitalk = new Gitalk({
-        clientID: '9b71ba417a4bb9508bf9',
-        clientSecret: '2aee458a5ba6b22ffcb72aea947cfb174c0cffad',
-        repo: 'wenlincheng.github.io',
-        owner: 'wenlincheng',
-        admin: "Jevin",
-        id: '2020-01-19T10-40-32',
-        distractionFreeMode: false  // Facebook-like distraction free mode
-    });
-
-    gitalk.render('gitalk-container');
-</script>
-
-{% endif %}
 </main>
 
 
