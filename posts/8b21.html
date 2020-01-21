@@ -4,15 +4,15 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="【排序算法】——开篇, 爱工作/爱编码/爱生活">
-    <meta name="description" content="0、排序算法说明
-0.1 排序的定义
-对一序列对象根据某个关键字进行排序。
-0.2 术语说明
+    <meta name="keywords" content="数据库事务的隔离级别, 爱工作/爱编码/爱生活">
+    <meta name="description" content="数据库事务的隔离级别有4个，由低到高依次为
 
-稳定：如果a原本在b前面，而a=b，排序之后a仍然在b的前面；
-不稳定：如果a原本在b的前面，而a=b，排序之后a可能会出现在b的后面；
-内排序">
+Read uncommitted（读未提交）
+Read committed（读提交）
+Repeatable read （重复读）
+Serializable（串行化）
+
+这四个级别可以逐个解决脏读">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -20,7 +20,7 @@
     <meta name="format-detection" content="telephone=no">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <title>【排序算法】——开篇 | 牧码人の博客</title>
+    <title>数据库事务的隔离级别 | 牧码人の博客</title>
     <link rel="icon" type="image/png" href="/favicon.png">
 
     <link rel="stylesheet" type="text/css" href="/libs/awesome/css/all.css">
@@ -325,12 +325,12 @@
 
 
 
-<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/21.jpg')">
+<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/12.jpg')">
     <div class="container" style="right: 0px;left: 0px;">
         <div class="row">
             <div class="col s12 m12 l12">
                 <div class="brand">
-                    <h1 class="description center-align post-title">【排序算法】——开篇</h1>
+                    <h1 class="description center-align post-title">数据库事务的隔离级别</h1>
                 </div>
             </div>
         </div>
@@ -352,8 +352,8 @@
                     
                     <div class="article-tag">
                         
-                            <a href="/tags/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/">
-                                <span class="chip bg-color">排序算法</span>
+                            <a href="/tags/%E4%BA%8B%E5%8A%A1%E9%9A%94%E7%A6%BB%E7%BA%A7%E5%88%AB/">
+                                <span class="chip bg-color">事务隔离级别</span>
                             </a>
                         
                     </div>
@@ -364,8 +364,8 @@
                     <div class="post-cate">
                         <i class="fas fa-bookmark fa-fw icon-category"></i>
                         
-                            <a href="/categories/%E7%AE%97%E6%B3%95/" class="post-category">
-                                算法
+                            <a href="/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/" class="post-category">
+                                数据库
                             </a>
                         
                     </div>
@@ -377,7 +377,7 @@
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-minus fa-fw"></i>发布日期:&nbsp;&nbsp;
-                    2020-01-20
+                    2020-01-01
                 </div>
                 
 
@@ -391,14 +391,14 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    238
+                    1.4k
                 </div>
                 
 
                 
                 <div class="info-break-policy">
                     <i class="far fa-clock fa-fw"></i>阅读时长:&nbsp;&nbsp;
-                    1 分
+                    5 分
                 </div>
                 
 
@@ -414,19 +414,70 @@
         <hr class="clearfix">
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <p><strong>0、排序算法说明</strong></p>
-<p><strong>0.1 排序的定义</strong></p>
-<p>对一序列对象根据某个关键字进行排序。</p>
-<p><strong>0.2 术语说明</strong></p>
+                <p>数据库事务的隔离级别有4个，由低到高依次为</p>
 <ul>
-<li><strong>稳定</strong>：如果a原本在b前面，而a=b，排序之后a仍然在b的前面；</li>
-<li><strong>不稳定</strong>：如果a原本在b的前面，而a=b，排序之后a可能会出现在b的后面；</li>
-<li><strong>内排序</strong>：所有排序操作都在内存中完成；</li>
-<li><strong>外排序</strong>：由于数据太大，因此把数据放在磁盘中，而排序通过磁盘和内存的数据传输才能进行；</li>
-<li><strong>时间复杂度：</strong> 一个算法执行所耗费的时间。</li>
-<li><strong>空间复杂度</strong>：运行完一个程序所需内存的大小。</li>
+<li>Read uncommitted（读未提交）</li>
+<li>Read committed（读提交）</li>
+<li>Repeatable read （重复读）</li>
+<li>Serializable（串行化）</li>
 </ul>
-<p><strong>0.3 算法总结</strong></p>
+<p>这四个级别可以逐个解决<strong>脏读、不可重复读、幻读</strong>这几类问题，具体见下表。</p>
+<p>√: 可能出现  ×: 不会出现</p>
+<table>
+<thead>
+<tr>
+<th>事务的隔离级别</th>
+<th>脏读</th>
+<th>不可重复读</th>
+<th>幻读</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Read uncommitted 读未提交</td>
+<td>√</td>
+<td>√</td>
+<td>√</td>
+</tr>
+<tr>
+<td>Read committed–读提交 Sql Server , Oracle默认</td>
+<td>×</td>
+<td>√</td>
+<td>√</td>
+</tr>
+<tr>
+<td>Repeatable read–重复读 MySQL默认</td>
+<td>×</td>
+<td>×</td>
+<td>√</td>
+</tr>
+<tr>
+<td>Serializable 串行化</td>
+<td>×</td>
+<td>×</td>
+<td>×</td>
+</tr>
+</tbody></table>
+<p>注意：我们讨论隔离级别的场景，主要是在多个事务并发的情况下，因此，接下来的讲解都围绕<strong>事务并发</strong>。 </p>
+<p><strong>Read uncommitted 读未提交</strong></p>
+<p>Read Uncommitted是限制性最弱的隔离级别，因为该级别忽略其他事务放置的锁。使用Read Uncommitted级别执行的事务，可以读取尚未由其他事务提交的修改后的数据值，这些行为称为“脏”读。这是因为在Read Uncommitted级别下，读取数据不需要加S锁，这样就不会跟被修改的数据上的X锁冲突。</p>
+<p>比如，事务1修改一行，事务2在事务1提交之前读取了这一行。如果事务1回滚，事务2就读取了一行没有提交的数据，这样的数据我们认为是不存在的。</p>
+<p>当隔离级别设置为Read uncommitted时，就可能出现脏读，看以下案例。</p>
+<p>公司发工资了，领导把5000元打到 A 的账号上，但是该事务并未提交，而 A 正好去查看账户，发现工资已经到账，是5000元整，非常高兴。可是不幸的是，领导发现发给 A 的工资金额不对，是2000元，于是迅速回滚了事务，修改金额后，将事务提交，最后 A 实际的工资只有2000元，A 空欢喜一场。</p>
+<p>两个并发的事务，“事务1：领导给 A 发工资”、“事务2：A 查询工资账户”，事务2读取了事务1尚未提交的数据，即我们所说的脏读。</p>
+<p><strong>Read committed 读提交</strong></p>
+<p>Read committed(Nonrepeatable reads)是SQL Server、Oracle默认的隔离级别。该级别通过指定语句不能读取其他事务已修改但是尚未提交的数据值，禁止执行脏读。在当前事务中的各个语句执行之间，其他事务仍可以修改、插入或删除数据，从而产生无法重复的读操作，或“影子”数据。</p>
+<p>比如，事务1读取了一行，事务2修改或者删除这一行并且提交。如果事务1想再一次读取这一行，它将获得修改后的数据或者发现这一样已经被删除，因此事务1的第二次读取结果与第一次读取结果不同，因此也叫不可重复读。</p>
+<p>A 拿着工资卡去消费，系统读取到卡里确实有2000元，而此时她的老婆也正好在网上转账，把A工资卡的2000元转到另一账户，并在A之前提交了事务，当A扣款时，系统检查到 A 的工资卡已经没有钱，扣款失败，A 十分纳闷，明明卡里有钱的。</p>
+<p>两个并发的事务，“事务1：A消费”、“事务2：A 的老婆网上转账”，事务1事先读取了数据，事务2紧接了更新了数据，并提交了事务，而事务1再次读取该数据时，数据已经发生了改变，出现了不可重复读。</p>
+<p>当隔离级别设置为Read committed时，避免了脏读，但是可能会造成不可重复读。大多数数据库的默认级别就是Read committed（读提交），比如 <strong>Sql Server ,</strong> <strong>Oracle</strong></p>
+<p><strong>Repeatable read 重复读</strong></p>
+<p>当隔离级别设置为Repeatable read时，可以避免不可重复读。当 A 拿着工资卡去消费时，一旦系统开始读取工资卡信息（即事务开始），A 的老婆就不可能对该记录进行修改，也就是 A 的老婆不能在此时转账。</p>
+<p>避免不可重复读，“事物1：A 消费”，“事物2：A的老婆网上转账”，事务1开始，未提交，事物2不能进行。</p>
+<p>虽然Repeatable read避免了不可重复读，但还有可能出现幻读。</p>
+<p>A 的老婆工作在银行部门，她时常通过银行内部系统查看 A 的信用卡消费记录。有一天，她正在查询到 A 当月信用卡的总消费金额（select sum(amount) from transaction where month = 本月）为80元，而 A 此时正好在外面胡吃海塞后在收银台买单，消费1000元，即新增了一条1000元的消费记录（insert transaction … ），并提交了事务，随后 A 的老婆将 A 当月信用卡消费的明细打印到A4纸上，却发现消费总额为1080元，A 的老婆很诧异，以为出现了幻觉，幻读就这样产生了。</p>
+<p>注：MySQL的默认隔离级别就是Repeatable read（重复读）</p>
+<p><strong>Serializable 串行化</strong></p>
+<p>Serializable是最高的事务隔离级别，同时代价也花费最高，性能很低，一般很少使用，在该级别下，事务顺序执行，不仅可以避免脏读、不可重复读，还避免了幻读。</p>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
@@ -470,7 +521,7 @@
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="https://www.wenlincheng.com/2020/01/20/pai-xu-suan-fa-kai-pian/">https://www.wenlincheng.com/2020/01/20/pai-xu-suan-fa-kai-pian/</a>
+                    <a href="https://www.wenlincheng.com/posts/8b21.html">https://www.wenlincheng.com/posts/8b21.html</a>
                 </span>
             </div>
             <div class="reprint__notice">
@@ -508,8 +559,8 @@
                     
                         <div class="article-tag">
                             
-                                <a href="/tags/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/">
-                                    <span class="chip bg-color">排序算法</span>
+                                <a href="/tags/%E4%BA%8B%E5%8A%A1%E9%9A%94%E7%A6%BB%E7%BA%A7%E5%88%AB/">
+                                    <span class="chip bg-color">事务隔离级别</span>
                                 </a>
                             
                         </div>
@@ -680,7 +731,7 @@
         repo: 'wenlincheng.github.io',
         owner: 'wenlincheng',
         admin: "wenlincheng",
-        id: '2020-01-20T15-13-00',
+        id: '2020-01-01T19-20-00',
         distractionFreeMode: false  // Facebook-like distraction free mode
     });
 
@@ -705,26 +756,26 @@
             <div class="article-badge left-badge text-color">
                 <i class="fas fa-chevron-left"></i>&nbsp;上一篇</div>
             <div class="card">
-                <a href="/2020/01/20/pai-xu-suan-fa-mou-pao-pai-xu/">
+                <a href="/posts/e57b.html">
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/6.jpg" class="responsive-img" alt="【排序算法】——冒泡排序">
+                        <img src="/medias/featureimages/21.jpg" class="responsive-img" alt="【排序算法】——开篇">
                         
-                        <span class="card-title">【排序算法】——冒泡排序</span>
+                        <span class="card-title">【排序算法】——开篇</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            /**
- * 冒泡排序
- *
- * 原理描述：比较相邻两个元素大小，进行交换，将大（小）的元素放到右边，以此类推，直到排序完毕。
- *
- * 平均时间复杂度 O(n^2) 空间复杂度 O(1) 稳定
- *
- * @param array 数
+                            0、排序算法说明
+0.1 排序的定义
+对一序列对象根据某个关键字进行排序。
+0.2 术语说明
+
+稳定：如果a原本在b前面，而a=b，排序之后a仍然在b的前面；
+不稳定：如果a原本在b的前面，而a=b，排序之后a可能会出现在b的后面；
+内排序
                         
                     </div>
                     <div class="publish-info">
@@ -758,10 +809,10 @@
         
         <div class="article col s12 m6" data-aos="fade-up">
             <div class="article-badge right-badge text-color">
-                下一篇&nbsp;<i class="fas fa-chevron-right"></i>
+                本篇&nbsp;<i class="far fa-dot-circle"></i>
             </div>
             <div class="card">
-                <a href="/2020/01/01/shu-ju-ku-shi-wu-de-ge-chi-ji-bie/">
+                <a href="/posts/8b21.html">
                     <div class="card-image">
                         
                         
@@ -799,6 +850,7 @@ Serializable（串行化）
                         </span>
                     </div>
                 </div>
+
                 
                 <div class="card-action article-tags">
                     
