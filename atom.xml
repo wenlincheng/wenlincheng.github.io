@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.wenlincheng.com/"/>
-  <updated>2020-02-02T09:39:15.678Z</updated>
+  <updated>2020-02-03T03:42:26.280Z</updated>
   <id>https://www.wenlincheng.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://www.wenlincheng.com/posts/ef38.html"/>
     <id>https://www.wenlincheng.com/posts/ef38.html</id>
     <published>2020-02-02T09:15:00.000Z</published>
-    <updated>2020-02-02T09:39:15.678Z</updated>
+    <updated>2020-02-03T03:42:26.280Z</updated>
     
     <summary type="html">
     
@@ -29,8 +29,8 @@
       
         
         
-          &lt;p&gt;对用户的姓名、电话号码、邮箱、身份证进行脱敏处理。&lt;/p&gt;
-&lt;pre class=&quot;line-numbers language-go&quot;&gt;&lt;code class=&quot;language-go&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt;
+          &lt;p&gt;对用户的姓名、电话号码、邮箱、身份证等信息进行脱敏处理。&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-go&quot;&gt;&lt;code class=&quot;language-go&quot;&gt;&lt;span class=&quot;token
         
       
     
@@ -107,7 +107,7 @@
     <link href="https://www.wenlincheng.com/posts/8303.html"/>
     <id>https://www.wenlincheng.com/posts/8303.html</id>
     <published>2020-01-20T07:13:00.000Z</published>
-    <updated>2020-02-02T09:45:45.578Z</updated>
+    <updated>2020-02-02T09:52:35.150Z</updated>
     
     <summary type="html">
     
