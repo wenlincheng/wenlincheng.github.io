@@ -167,7 +167,7 @@
     <link href="https://www.wenlincheng.com/posts/8b21.html"/>
     <id>https://www.wenlincheng.com/posts/8b21.html</id>
     <published>2020-01-01T11:20:00.000Z</published>
-    <updated>2020-02-02T09:22:27.194Z</updated>
+    <updated>2020-02-05T02:10:09.812Z</updated>
     
     <summary type="html">
     
@@ -175,11 +175,9 @@
       
         
         
-          &lt;p&gt;数据库事务的隔离级别有4个，由低到高依次为&lt;/p&gt;
+          &lt;h3 id=&quot;事务隔离级别&quot;&gt;&lt;a href=&quot;#事务隔离级别&quot; class=&quot;headerlink&quot; title=&quot;事务隔离级别&quot;&gt;&lt;/a&gt;事务隔离级别&lt;/h3&gt;&lt;p&gt;数据库事务的隔离级别有4个，由低到高依次为：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Read uncommitted（读未提交）&lt;/li&gt;
-&lt;li&gt;Read committed（读提交）&lt;/li&gt;
-&lt;li&gt;Repeatable read
+&lt;li&gt;Read
         
       
     
