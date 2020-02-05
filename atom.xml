@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>孤烟の往事</title>
   
-  <subtitle>黄皮肤小松鼠的青春记忆</subtitle>
+  <subtitle>黄皮肤松鼠的青春记忆</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.wenlincheng.com/"/>
-  <updated>2020-02-03T03:42:26.280Z</updated>
+  <updated>2020-02-05T12:55:39.743Z</updated>
   <id>https://www.wenlincheng.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MyBatis面试题</title>
+    <link href="https://www.wenlincheng.com/posts/44b0.html"/>
+    <id>https://www.wenlincheng.com/posts/44b0.html</id>
+    <published>2020-02-05T08:46:00.000Z</published>
+    <updated>2020-02-05T12:55:39.743Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;1、什么是Mybatis&quot;&gt;&lt;a href=&quot;#1、什么是Mybatis&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="面试题" scheme="https://www.wenlincheng.com/categories/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    
+    
+      <category term="MyBatis" scheme="https://www.wenlincheng.com/tags/MyBatis/"/>
+    
+  </entry>
   
   <entry>
     <title>【代码】——用户信息脱敏处理</title>
@@ -79,7 +106,7 @@
     <link href="https://www.wenlincheng.com/posts/2ec7.html"/>
     <id>https://www.wenlincheng.com/posts/2ec7.html</id>
     <published>2020-01-21T02:20:00.000Z</published>
-    <updated>2020-02-05T03:25:48.252Z</updated>
+    <updated>2020-02-05T09:22:16.911Z</updated>
     
     <summary type="html">
     
