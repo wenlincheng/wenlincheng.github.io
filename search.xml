@@ -179,6 +179,31 @@
     
     
     <entry>
+      <title>Git常用命令大全</title>
+      <link href="/posts/8a4f.html"/>
+      <url>/posts/8a4f.html</url>
+      
+        <content type="html"><![CDATA[<p><img src="../images/loading.gif" data-original="http://img.ternarytree.cn/blog/cover/git.jpg" alt="git.jpg"></p><p>整理的常用 Git 命令清单，几个专用名词的译名如下。</p><ul><li>Workspace：工作区</li><li>Index / Stage：暂存区</li><li>Repository：仓库区（或本地仓库）</li><li>Remote：远程仓库</li></ul><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> Git </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Git </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>数据库事务的隔离级别</title>
       <link href="/posts/8b21.html"/>
       <url>/posts/8b21.html</url>
