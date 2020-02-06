@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.wenlincheng.com/"/>
-  <updated>2020-02-06T01:53:14.262Z</updated>
+  <updated>2020-02-06T03:12:41.149Z</updated>
   <id>https://www.wenlincheng.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Spring面试题</title>
+    <link href="https://www.wenlincheng.com/posts/8791.html"/>
+    <id>https://www.wenlincheng.com/posts/8791.html</id>
+    <published>2020-02-06T02:18:00.000Z</published>
+    <updated>2020-02-06T03:12:41.149Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;1、Spring是什么&quot;&gt;&lt;a href=&quot;#1、Spring是什么&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="面试题" scheme="https://www.wenlincheng.com/categories/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    
+    
+      <category term="Spring" scheme="https://www.wenlincheng.com/tags/Spring/"/>
+    
+  </entry>
   
   <entry>
     <title>MyBatis面试题</title>
