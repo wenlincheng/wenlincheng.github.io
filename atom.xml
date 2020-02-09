@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.wenlincheng.com/"/>
-  <updated>2020-02-06T16:12:38.791Z</updated>
+  <updated>2020-02-09T12:57:18.694Z</updated>
   <id>https://www.wenlincheng.com/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Redis面试题</title>
+    <link href="https://www.wenlincheng.com/posts/a822.html"/>
+    <id>https://www.wenlincheng.com/posts/a822.html</id>
+    <published>2020-02-09T03:18:00.000Z</published>
+    <updated>2020-02-09T12:57:18.694Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;a href=&quot;https://blog.csdn.net/csdnlijingran/article/details/88068598&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="面试题" scheme="https://www.wenlincheng.com/categories/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    
+    
+      <category term="Redis" scheme="https://www.wenlincheng.com/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
     <title>【碎碎念】——2020-02-06</title>
     <link href="https://www.wenlincheng.com/posts/2948.html"/>
     <id>https://www.wenlincheng.com/posts/2948.html</id>
     <published>2020-02-06T15:59:00.000Z</published>
-    <updated>2020-02-06T16:12:38.791Z</updated>
+    <updated>2020-02-06T16:12:50.067Z</updated>
     
     <summary type="html">
     

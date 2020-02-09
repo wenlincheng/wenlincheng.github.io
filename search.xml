@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Redis面试题</title>
+      <link href="/posts/a822.html"/>
+      <url>/posts/a822.html</url>
+      
+        <content type="html"><![CDATA[<p><a href="https://blog.csdn.net/csdnlijingran/article/details/88068598" target="_blank" rel="noopener">https://blog.csdn.net/csdnlijingran/article/details/88068598</a></p><h3 id="1、为什么Redis这么快？"><a href="#1、为什么Redis这么快？" class="headerlink" title="1、为什么Redis这么快？"></a>1、为什么Redis这么快？</h3><p>100000 + QPS（Query pre Second 美秒查询次数）</p><p>1、完全基于内存，绝大部分请求是纯粹的内存操作，执行效率高；</p><p>2、数据结构简单，对数据操作也简单；</p><p>3、采用单线程，单线程也能处理高并发请求，想多核也可启动多实例；</p><p>4、使用多路I/O复用模型，非阻塞IO。</p><h3 id="2、Redis数据类型有哪些？"><a href="#2、Redis数据类型有哪些？" class="headerlink" title="2、Redis数据类型有哪些？"></a>2、Redis数据类型有哪些？</h3><p>常用数据类型：</p><ul><li>string: 字符串</li><li>hash: 散列</li><li>list: 列表</li><li>set: 集合</li><li>sorted set: 有序集合</li></ul><p><strong>string</strong></p><p>string 是 Redis 最基本的数据类型，值最大能存储 512MB，是二进制安全的，可以包含任何数据。比如jpg图片或者序列化的对象等。</p><p>主要用到的命令有：</p><table><thead><tr><th>命令</th><th>用例</th><th>描述</th></tr></thead><tbody><tr><td>SET</td><td>SET [KEY] [VALUE]</td><td>将键KEY存储值为VALUE</td></tr><tr><td>GET</td><td>GET [KEY]</td><td>获取键KEY的值</td></tr><tr><td>INCR</td><td>INCR [KEY]</td><td>将键存储的值加上 1</td></tr><tr><td>DECR</td><td>DECR [KEY]</td><td>将键存储的值减去 1</td></tr><tr><td>INCRBY</td><td>INCRBY [KEY] num</td><td>将键存储的值加上整数 num</td></tr><tr><td>DECRBY</td><td>DECRBY [KEY] num</td><td>将键存储的值减去整数 num</td></tr><tr><td>INCRBYFLOAT</td><td>INCRBYFLOAT [KEY] num</td><td>将键存储的值加上浮点数  num</td></tr></tbody></table><p><strong>hash</strong></p><p><strong>list</strong></p><p><strong>set</strong></p><p><strong>sorted set</strong></p><p>不常用数据类型：</p><ul><li>S</li></ul><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 面试题 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Redis </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>【碎碎念】——2020-02-06</title>
       <link href="/posts/2948.html"/>
       <url>/posts/2948.html</url>
