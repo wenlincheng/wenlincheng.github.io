@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.wenlincheng.com/"/>
-  <updated>2020-02-11T06:50:32.189Z</updated>
+  <updated>2020-02-13T09:00:05.473Z</updated>
   <id>https://www.wenlincheng.com/</id>
   
   <author>
@@ -17,11 +17,66 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>【Python问题】—— 安装pip、PIL</title>
+    <link href="https://www.wenlincheng.com/posts/953d.html"/>
+    <id>https://www.wenlincheng.com/posts/953d.html</id>
+    <published>2020-02-13T08:18:00.000Z</published>
+    <updated>2020-02-13T09:00:05.473Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Python3安装 PIL（Python Image Library）&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;pip &lt;span class=&quot;token
+        
+      
+    
+    </summary>
+    
+    
+      <category term="问题" scheme="https://www.wenlincheng.com/categories/%E9%97%AE%E9%A2%98/"/>
+    
+    
+      <category term="Python" scheme="https://www.wenlincheng.com/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Maven面试题</title>
+    <link href="https://www.wenlincheng.com/posts/f4a5.html"/>
+    <id>https://www.wenlincheng.com/posts/f4a5.html</id>
+    <published>2020-02-12T04:10:00.000Z</published>
+    <updated>2020-02-15T04:43:18.422Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;一、Maven有哪些优点和缺点？&quot;&gt;&lt;a href=&quot;#一、Maven有哪些优点和缺点？&quot; class=&quot;headerlink&quot; title=&quot;一、Maven有哪些优点和缺点？&quot;&gt;&lt;/a&gt;一、Maven有哪些优点和缺点？&lt;/h3&gt;&lt;h4 id=&quot;优点&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="面试题" scheme="https://www.wenlincheng.com/categories/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    
+    
+      <category term="Maven" scheme="https://www.wenlincheng.com/tags/Maven/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Redis面试题</title>
     <link href="https://www.wenlincheng.com/posts/a822.html"/>
     <id>https://www.wenlincheng.com/posts/a822.html</id>
     <published>2020-02-09T03:18:00.000Z</published>
-    <updated>2020-02-11T06:50:32.189Z</updated>
+    <updated>2020-02-13T14:58:04.224Z</updated>
     
     <summary type="html">
     
