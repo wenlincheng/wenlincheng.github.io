@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.wenlincheng.com/"/>
-  <updated>2020-02-13T09:00:05.473Z</updated>
+  <updated>2020-02-23T08:46:49.211Z</updated>
   <id>https://www.wenlincheng.com/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【碎碎念】——2020-02-23</title>
+    <link href="https://www.wenlincheng.com/posts/4a89.html"/>
+    <id>https://www.wenlincheng.com/posts/4a89.html</id>
+    <published>2020-02-23T08:42:00.000Z</published>
+    <updated>2020-02-23T08:46:49.211Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;“人类每天思考事情占比不足20%，剩下的是习惯。习惯积累，就成了人生”&lt;/p&gt;
+&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+         
+        
+      
+    
+    </summary>
+    
+    
+      <category term="碎碎念" scheme="https://www.wenlincheng.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+    
+      <category term="随笔" scheme="https://www.wenlincheng.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title>【Python问题】—— 安装pip、PIL</title>
@@ -49,7 +80,7 @@
     <link href="https://www.wenlincheng.com/posts/f4a5.html"/>
     <id>https://www.wenlincheng.com/posts/f4a5.html</id>
     <published>2020-02-12T04:10:00.000Z</published>
-    <updated>2020-02-15T07:56:29.103Z</updated>
+    <updated>2020-02-15T12:11:26.536Z</updated>
     
     <summary type="html">
     
