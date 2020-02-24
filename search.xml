@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>【碎碎念】——2020-02-24</title>
+      <link href="/posts/88c8.html"/>
+      <url>/posts/88c8.html</url>
+      
+        <content type="html"><![CDATA[<p>两情相悦何须待长发及腰，短发及肩也美若天仙。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 碎碎念 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>【碎碎念】——2020-02-23</title>
       <link href="/posts/4a89.html"/>
       <url>/posts/4a89.html</url>

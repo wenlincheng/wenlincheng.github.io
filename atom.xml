@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>孤烟の往事</title>
+  <title>皮卡拿破轮</title>
   
-  <subtitle>黄皮肤松鼠的青春记忆</subtitle>
+  <subtitle>孤烟の往事</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.wenlincheng.com/"/>
-  <updated>2020-02-23T08:46:49.211Z</updated>
+  <updated>2020-02-24T09:06:50.449Z</updated>
   <id>https://www.wenlincheng.com/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【碎碎念】——2020-02-24</title>
+    <link href="https://www.wenlincheng.com/posts/88c8.html"/>
+    <id>https://www.wenlincheng.com/posts/88c8.html</id>
+    <published>2020-02-24T09:05:00.000Z</published>
+    <updated>2020-02-24T09:06:50.449Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;两情相悦何须待长发及腰，短发及肩也美若天仙。&lt;/p&gt;
+&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if
+        
+      
+    
+    </summary>
+    
+    
+      <category term="碎碎念" scheme="https://www.wenlincheng.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+    
+      <category term="随笔" scheme="https://www.wenlincheng.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title>【碎碎念】——2020-02-23</title>
