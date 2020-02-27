@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>【碎碎念】——2020-02-27</title>
+      <link href="/posts/8988.html"/>
+      <url>/posts/8988.html</url>
+      
+        <content type="html"><![CDATA[<p>五年内能让你受益匪浅的事：</p><ul><li>掌握一项赖以谋生的技能——编程</li><li>树立投资理财观念——在学习</li><li>拥有一项令你心静的爱好——看书、摄影</li><li>学会说话，建立高效能人际圈——在努力</li><li>养成良好的习惯——在努力</li></ul><p>10-10-10决策法则</p><p>不知道如何决策时问自己三个问题：</p><ul><li>这个决定在10分钟后有什么影响？</li><li>这个决定在10个月后有什么影响？</li><li>这个决定在10年之后有什么影响？</li></ul><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 碎碎念 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>【碎碎念】——2020-02-24</title>
       <link href="/posts/88c8.html"/>
       <url>/posts/88c8.html</url>
