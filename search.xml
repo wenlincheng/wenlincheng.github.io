@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>【碎碎念】——2020-02-28</title>
+      <link href="/posts/8dc8.html"/>
+      <url>/posts/8dc8.html</url>
+      
+        <content type="html"><![CDATA[<p>“不要把鸡蛋放在一个篮子里”</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 碎碎念 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>【碎碎念】——2020-02-27</title>
       <link href="/posts/8988.html"/>
       <url>/posts/8988.html</url>
