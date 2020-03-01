@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>【碎碎念】——2020-03-01</title>
+      <link href="/posts/1708.html"/>
+      <url>/posts/1708.html</url>
+      
+        <content type="html"><![CDATA[<p>阅读记录</p><blockquote><p><a href="https://mp.weixin.qq.com/s/90SH_8wOaqUGTH7a_6FvMw" target="_blank" rel="noopener">https://mp.weixin.qq.com/s/90SH_8wOaqUGTH7a_6FvMw</a></p></blockquote><p>左宗棠，曾写过一副对联：</p><p><strong>发上等愿，结中等缘，享下等福；</strong></p><p><strong>择高处立，寻平处住，向宽处行。</strong></p><p>对联解释：</p><p>人要胸怀远大志向，</p><p>但只求中等的缘分，</p><p>愿过普通人的生活；</p><p>看问题要高瞻远瞩，</p><p>做人应该低调谦逊，</p><p>做事要多留些余地。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 碎碎念 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>【碎碎念】——2020-02-28</title>
       <link href="/posts/8dc8.html"/>
       <url>/posts/8dc8.html</url>

@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>皮卡战记</title>
   
-  <subtitle>黄皮肤松鼠的打怪升级</subtitle>
+  <subtitle>不负好时光</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.wenlincheng.com/"/>
-  <updated>2020-02-28T02:12:50.565Z</updated>
+  <updated>2020-03-01T10:28:48.275Z</updated>
   <id>https://www.wenlincheng.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【碎碎念】——2020-03-01</title>
+    <link href="https://www.wenlincheng.com/posts/1708.html"/>
+    <id>https://www.wenlincheng.com/posts/1708.html</id>
+    <published>2020-03-01T10:13:00.000Z</published>
+    <updated>2020-03-01T10:28:48.275Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;阅读记录&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/90SH_8wOaqUGTH7a_6FvMw&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="碎碎念" scheme="https://www.wenlincheng.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+    
+      <category term="随笔" scheme="https://www.wenlincheng.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title>【碎碎念】——2020-02-28</title>
