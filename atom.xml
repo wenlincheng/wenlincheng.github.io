@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.wenlincheng.com/"/>
-  <updated>2020-03-01T10:28:48.275Z</updated>
+  <updated>2020-03-03T09:47:55.166Z</updated>
   <id>https://www.wenlincheng.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【MongoDB系列笔记】数据库安装</title>
+    <link href="https://www.wenlincheng.com/posts/7763.html"/>
+    <id>https://www.wenlincheng.com/posts/7763.html</id>
+    <published>2020-03-02T10:50:00.000Z</published>
+    <updated>2020-03-03T09:47:55.166Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;MongoDB
+        
+      
+    
+    </summary>
+    
+    
+      <category term="数据库" scheme="https://www.wenlincheng.com/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+      <category term="mongodb" scheme="https://www.wenlincheng.com/tags/mongodb/"/>
+    
+  </entry>
   
   <entry>
     <title>【碎碎念】——2020-03-01</title>
