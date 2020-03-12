@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.wenlincheng.com/"/>
-  <updated>2020-03-10T01:40:05.255Z</updated>
+  <updated>2020-03-12T08:32:30.038Z</updated>
   <id>https://www.wenlincheng.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>阿里云Redis开发规范</title>
+    <link href="https://www.wenlincheng.com/posts/e47c.html"/>
+    <id>https://www.wenlincheng.com/posts/e47c.html</id>
+    <published>2020-03-12T08:32:00.000Z</published>
+    <updated>2020-03-12T08:32:30.038Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;转载自 &lt;a href=&quot;https://yq.aliyun.com/articles/531067&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="数据库" scheme="https://www.wenlincheng.com/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+      <category term="Redis" scheme="https://www.wenlincheng.com/tags/Redis/"/>
+    
+  </entry>
   
   <entry>
     <title>MySQL面试5连炮</title>
@@ -558,34 +586,6 @@
     
     
       <category term="排序算法" scheme="https://www.wenlincheng.com/tags/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>多线程面试题</title>
-    <link href="https://www.wenlincheng.com/posts/2ec7.html"/>
-    <id>https://www.wenlincheng.com/posts/2ec7.html</id>
-    <published>2020-01-21T02:20:00.000Z</published>
-    <updated>2020-03-06T04:40:05.061Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;blockquote&gt;
-&lt;p&gt;本文转载自：&lt;a href=&quot;https://blog.csdn.net/cmyperson/article/details/79610870&quot; target=&quot;_blank&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="面试题" scheme="https://www.wenlincheng.com/categories/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
-    
-    
-      <category term="多线程" scheme="https://www.wenlincheng.com/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
     
   </entry>
   
