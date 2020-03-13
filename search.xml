@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>【学习资源】电子书分享（持续更新）</title>
+      <link href="/posts/9da8.html"/>
+      <url>/posts/9da8.html</url>
+      
+        <content type="html"><![CDATA[<p>这篇文章主要是用于分享自己收集的一些电子书，电子书的种类会涵盖后端、前端、算法与数据结构、数据库、开源框架等技术，当然还有非计算机领域的书籍也会陆续更新，大家可以通过网盘链接的方式自行获取。电子书主要是网上收集的，有些是自己花钱购买的，都是精心挑选，质量相对较好、高清的书籍，相信在全栈修炼、自我提升过程中能大家够用得上。复制链接按需提取，来过、取过就点个赞吧。书籍库会持续更新，更新后的分享可在公众号菜单栏获取；另外，我会在公众号会分享一些平时学习、填坑的小经验，以及接触的新技术，欢迎关注、转发，敬请期待。</p><h3 id="Java"><a href="#Java" class="headerlink" title="Java"></a>Java</h3><p>包含Java核心卷、Java虚拟机、Spring全家桶等</p><p>链接：<a href="https://pan.baidu.com/s/16z9ZnFKP2PmhDGSLkV28XQ" target="_blank" rel="noopener">https://pan.baidu.com/s/16z9ZnFKP2PmhDGSLkV28XQ</a>  </p><p>密码：25do</p><h3 id="前端"><a href="#前端" class="headerlink" title="前端"></a>前端</h3><p>包含JavaScript、HTML、CSS、WebGL等</p><p>链接：<a href="https://pan.baidu.com/s/1ElciE_jYml-ly6q9kSdSAg" target="_blank" rel="noopener">https://pan.baidu.com/s/1ElciE_jYml-ly6q9kSdSAg</a>  </p><p>密码：0ywj</p><h3 id="算法、数据结构"><a href="#算法、数据结构" class="headerlink" title="算法、数据结构"></a>算法、数据结构</h3><p>链接：<a href="https://pan.baidu.com/s/1Q-cv4yEtVZG7cZ7OGkwTcg" target="_blank" rel="noopener">https://pan.baidu.com/s/1Q-cv4yEtVZG7cZ7OGkwTcg</a>  </p><p>密码：anpj</p><h3 id="数据库"><a href="#数据库" class="headerlink" title="数据库"></a>数据库</h3><p>包含MySQL、Oracle、Redis等</p><p>链接：<a href="https://pan.baidu.com/s/19Y0fcs0eWn7y0MdE822GTg" target="_blank" rel="noopener">https://pan.baidu.com/s/19Y0fcs0eWn7y0MdE822GTg</a></p><p>密码：lm4p</p><h3 id="互联网必读"><a href="#互联网必读" class="headerlink" title="互联网必读"></a>互联网必读</h3><p>包含计算机科学、大厂技术分享、面试题等</p><p>链接：<a href="https://pan.baidu.com/s/1eIqOwQLFQ3c4hSkfPgZWJQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1eIqOwQLFQ3c4hSkfPgZWJQ</a>  </p><p>密码：4vt3</p><h3 id="自我提升"><a href="#自我提升" class="headerlink" title="自我提升"></a>自我提升</h3><p>链接：<a href="https://pan.baidu.com/s/1J_clblhQ9vprVfURPvXxgQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1J_clblhQ9vprVfURPvXxgQ</a>  </p><p>密码：aa10</p><hr><p><em>关注微信公众号:</em>【皮卡战记】</p><img src="../images/loading.gif" data-original="http://img.wenlincheng.com/20200306123730.jpg" alt="皮卡战记" style="zoom:67%;"><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 书籍 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Redis开发规范</title>
       <link href="/posts/5e22.html"/>
       <url>/posts/5e22.html</url>
