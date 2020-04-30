@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.wenlincheng.com/"/>
-  <updated>2020-04-14T09:09:43.974Z</updated>
+  <updated>2020-04-30T03:09:23.970Z</updated>
   <id>https://www.wenlincheng.com/</id>
   
   <author>
@@ -17,11 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>全国省、市、区、乡镇/街道地址</title>
+    <link href="https://www.wenlincheng.com/posts/9940.html"/>
+    <id>https://www.wenlincheng.com/posts/9940.html</id>
+    <published>2020-04-30T03:01:00.000Z</published>
+    <updated>2020-04-30T03:09:23.970Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;全国省、市、区、乡镇/街道地址行政编吗、全称、简称、经纬度、级别、排序，四级联动，开箱即用。&lt;/p&gt;
+&lt;h3 id=&quot;省&quot;&gt;&lt;a href=&quot;#省&quot; class=&quot;headerlink&quot; title=&quot;省&quot;&gt;&lt;/a&gt;省&lt;/h3&gt;&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+      <category term="数据库" scheme="https://www.wenlincheng.com/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+      <category term="全国地址" scheme="https://www.wenlincheng.com/tags/%E5%85%A8%E5%9B%BD%E5%9C%B0%E5%9D%80/"/>
+    
+  </entry>
+  
+  <entry>
     <title>正则表达式</title>
     <link href="https://www.wenlincheng.com/posts/b5e3.html"/>
     <id>https://www.wenlincheng.com/posts/b5e3.html</id>
     <published>2020-04-14T07:51:00.000Z</published>
-    <updated>2020-04-14T09:09:43.974Z</updated>
+    <updated>2020-04-14T09:22:32.179Z</updated>
     
     <summary type="html">
     
@@ -240,7 +268,7 @@
     <link href="https://www.wenlincheng.com/posts/1708.html"/>
     <id>https://www.wenlincheng.com/posts/1708.html</id>
     <published>2020-03-01T10:13:00.000Z</published>
-    <updated>2020-03-01T10:28:48.275Z</updated>
+    <updated>2020-04-30T02:52:48.943Z</updated>
     
     <summary type="html">
     
@@ -269,7 +297,7 @@
     <link href="https://www.wenlincheng.com/posts/8dc8.html"/>
     <id>https://www.wenlincheng.com/posts/8dc8.html</id>
     <published>2020-02-28T02:10:00.000Z</published>
-    <updated>2020-02-28T02:12:50.565Z</updated>
+    <updated>2020-04-30T02:52:58.961Z</updated>
     
     <summary type="html">
     
@@ -300,7 +328,7 @@
     <link href="https://www.wenlincheng.com/posts/8988.html"/>
     <id>https://www.wenlincheng.com/posts/8988.html</id>
     <published>2020-02-27T10:05:00.000Z</published>
-    <updated>2020-02-27T13:06:45.213Z</updated>
+    <updated>2020-04-30T02:53:10.047Z</updated>
     
     <summary type="html">
     
@@ -333,7 +361,7 @@
     <link href="https://www.wenlincheng.com/posts/88c8.html"/>
     <id>https://www.wenlincheng.com/posts/88c8.html</id>
     <published>2020-02-24T09:05:00.000Z</published>
-    <updated>2020-02-24T09:06:50.449Z</updated>
+    <updated>2020-04-30T02:53:20.012Z</updated>
     
     <summary type="html">
     
@@ -364,7 +392,7 @@
     <link href="https://www.wenlincheng.com/posts/4a89.html"/>
     <id>https://www.wenlincheng.com/posts/4a89.html</id>
     <published>2020-02-23T08:42:00.000Z</published>
-    <updated>2020-02-23T08:46:49.211Z</updated>
+    <updated>2020-04-30T02:53:33.464Z</updated>
     
     <summary type="html">
     
@@ -395,7 +423,7 @@
     <link href="https://www.wenlincheng.com/posts/953d.html"/>
     <id>https://www.wenlincheng.com/posts/953d.html</id>
     <published>2020-02-13T08:18:00.000Z</published>
-    <updated>2020-03-06T04:39:34.632Z</updated>
+    <updated>2020-04-30T02:55:00.426Z</updated>
     
     <summary type="html">
     
@@ -423,7 +451,7 @@
     <link href="https://www.wenlincheng.com/posts/f4a5.html"/>
     <id>https://www.wenlincheng.com/posts/f4a5.html</id>
     <published>2020-02-12T04:10:00.000Z</published>
-    <updated>2020-03-06T04:41:59.702Z</updated>
+    <updated>2020-04-30T02:52:12.363Z</updated>
     
     <summary type="html">
     
@@ -450,7 +478,7 @@
     <link href="https://www.wenlincheng.com/posts/a822.html"/>
     <id>https://www.wenlincheng.com/posts/a822.html</id>
     <published>2020-02-09T03:18:00.000Z</published>
-    <updated>2020-03-06T04:42:40.240Z</updated>
+    <updated>2020-04-30T02:51:28.795Z</updated>
     
     <summary type="html">
     
@@ -477,7 +505,7 @@
     <link href="https://www.wenlincheng.com/posts/2948.html"/>
     <id>https://www.wenlincheng.com/posts/2948.html</id>
     <published>2020-02-06T15:59:00.000Z</published>
-    <updated>2020-02-06T16:12:50.067Z</updated>
+    <updated>2020-04-30T02:53:44.950Z</updated>
     
     <summary type="html">
     
@@ -508,7 +536,7 @@
     <link href="https://www.wenlincheng.com/posts/8a4f.html"/>
     <id>https://www.wenlincheng.com/posts/8a4f.html</id>
     <published>2020-02-06T07:13:00.000Z</published>
-    <updated>2020-03-06T04:41:48.870Z</updated>
+    <updated>2020-04-30T02:52:26.644Z</updated>
     
     <summary type="html">
     
@@ -535,7 +563,7 @@
     <link href="https://www.wenlincheng.com/posts/8791.html"/>
     <id>https://www.wenlincheng.com/posts/8791.html</id>
     <published>2020-02-06T02:18:00.000Z</published>
-    <updated>2020-03-06T04:42:56.544Z</updated>
+    <updated>2020-04-30T02:51:05.506Z</updated>
     
     <summary type="html">
     
@@ -554,33 +582,6 @@
     
     
       <category term="Spring" scheme="https://www.wenlincheng.com/tags/Spring/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MyBatis面试题</title>
-    <link href="https://www.wenlincheng.com/posts/44b0.html"/>
-    <id>https://www.wenlincheng.com/posts/44b0.html</id>
-    <published>2020-02-05T08:46:00.000Z</published>
-    <updated>2020-03-06T04:42:29.807Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h3 id=&quot;1、什么是Mybatis&quot;&gt;&lt;a href=&quot;#1、什么是Mybatis&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="面试题" scheme="https://www.wenlincheng.com/categories/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
-    
-    
-      <category term="MyBatis" scheme="https://www.wenlincheng.com/tags/MyBatis/"/>
     
   </entry>
   
