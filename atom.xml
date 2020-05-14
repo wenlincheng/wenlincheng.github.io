@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.wenlincheng.com/"/>
-  <updated>2020-04-30T03:12:48.143Z</updated>
+  <updated>2020-05-14T08:19:34.403Z</updated>
   <id>https://www.wenlincheng.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Go语言基于双向链表实现LinkedList</title>
+    <link href="https://www.wenlincheng.com/posts/9dfe.html"/>
+    <id>https://www.wenlincheng.com/posts/9dfe.html</id>
+    <published>2020-05-15T07:13:00.000Z</published>
+    <updated>2020-05-14T08:19:34.403Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;数据结构&quot;&gt;&lt;a href=&quot;#数据结构&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Golang" scheme="https://www.wenlincheng.com/categories/Golang/"/>
+    
+    
+      <category term="LinkedList" scheme="https://www.wenlincheng.com/tags/LinkedList/"/>
+    
+  </entry>
   
   <entry>
     <title>全国省、市、区/县、乡镇/街道地址</title>
@@ -555,33 +582,6 @@
     
     
       <category term="Git" scheme="https://www.wenlincheng.com/tags/Git/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Spring面试题</title>
-    <link href="https://www.wenlincheng.com/posts/8791.html"/>
-    <id>https://www.wenlincheng.com/posts/8791.html</id>
-    <published>2020-02-06T02:18:00.000Z</published>
-    <updated>2020-04-30T02:51:05.506Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h3 id=&quot;1、Spring是什么&quot;&gt;&lt;a href=&quot;#1、Spring是什么&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="面试题" scheme="https://www.wenlincheng.com/categories/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
-    
-    
-      <category term="Spring" scheme="https://www.wenlincheng.com/tags/Spring/"/>
     
   </entry>
   
