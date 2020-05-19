@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.wenlincheng.com/"/>
-  <updated>2020-05-17T12:02:45.219Z</updated>
+  <updated>2020-05-19T02:29:42.220Z</updated>
   <id>https://www.wenlincheng.com/</id>
   
   <author>
@@ -17,11 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>【转载】RocketMQ 分享全纪实</title>
+    <link href="https://www.wenlincheng.com/posts/761c.html"/>
+    <id>https://www.wenlincheng.com/posts/761c.html</id>
+    <published>2020-05-19T07:13:00.000Z</published>
+    <updated>2020-05-19T02:29:42.220Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;转载自 &lt;a href=&quot;https://www.jianshu.com/p/78076f383c00&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="转载" scheme="https://www.wenlincheng.com/categories/%E8%BD%AC%E8%BD%BD/"/>
+    
+    
+      <category term="RocketMQ" scheme="https://www.wenlincheng.com/tags/RocketMQ/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Git版本控制Tag管理</title>
     <link href="https://www.wenlincheng.com/posts/cc0f.html"/>
     <id>https://www.wenlincheng.com/posts/cc0f.html</id>
     <published>2020-05-17T07:13:00.000Z</published>
-    <updated>2020-05-17T12:02:45.219Z</updated>
+    <updated>2020-05-19T02:26:02.883Z</updated>
     
     <summary type="html">
     
@@ -551,37 +579,6 @@
     
     
       <category term="Redis" scheme="https://www.wenlincheng.com/tags/Redis/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【碎碎念】——2020-02-06</title>
-    <link href="https://www.wenlincheng.com/posts/2948.html"/>
-    <id>https://www.wenlincheng.com/posts/2948.html</id>
-    <published>2020-02-06T15:59:00.000Z</published>
-    <updated>2020-04-30T02:53:44.950Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;“所有的回忆都在小叮当的口袋里”&lt;/p&gt;
-&lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forEach(el =&gt; {
-            if
-        
-      
-    
-    </summary>
-    
-    
-      <category term="碎碎念" scheme="https://www.wenlincheng.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-    
-    
-      <category term="随笔" scheme="https://www.wenlincheng.com/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
