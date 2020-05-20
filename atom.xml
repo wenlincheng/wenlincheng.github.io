@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.wenlincheng.com/"/>
-  <updated>2020-05-19T02:30:09.307Z</updated>
+  <updated>2020-05-20T07:47:28.763Z</updated>
   <id>https://www.wenlincheng.com/</id>
   
   <author>
@@ -17,11 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>按照中文首字母排序Go语言实现</title>
+    <link href="https://www.wenlincheng.com/posts/1964.html"/>
+    <id>https://www.wenlincheng.com/posts/1964.html</id>
+    <published>2020-05-20T07:13:00.000Z</published>
+    <updated>2020-05-20T07:47:28.763Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;汉语转拼音&quot;&gt;&lt;a href=&quot;#汉语转拼音&quot; class=&quot;headerlink&quot; title=&quot;汉语转拼音&quot;&gt;&lt;/a&gt;汉语转拼音&lt;/h3&gt;&lt;p&gt;库&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;go get -u
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Golang" scheme="https://www.wenlincheng.com/categories/Golang/"/>
+    
+    
+      <category term="首字母排序" scheme="https://www.wenlincheng.com/tags/%E9%A6%96%E5%AD%97%E6%AF%8D%E6%8E%92%E5%BA%8F/"/>
+    
+  </entry>
+  
+  <entry>
     <title>【转载】RocketMQ 分享全纪实</title>
     <link href="https://www.wenlincheng.com/posts/761c.html"/>
     <id>https://www.wenlincheng.com/posts/761c.html</id>
     <published>2020-05-19T07:13:00.000Z</published>
-    <updated>2020-05-19T02:30:09.307Z</updated>
+    <updated>2020-05-20T07:44:11.913Z</updated>
     
     <summary type="html">
     
@@ -295,7 +323,7 @@
     <link href="https://www.wenlincheng.com/posts/afc.html"/>
     <id>https://www.wenlincheng.com/posts/afc.html</id>
     <published>2020-03-06T03:08:00.000Z</published>
-    <updated>2020-04-05T13:34:12.305Z</updated>
+    <updated>2020-05-20T07:44:48.789Z</updated>
     
     <summary type="html">
     
@@ -552,33 +580,6 @@
     
     
       <category term="Maven" scheme="https://www.wenlincheng.com/tags/Maven/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Redis面试题</title>
-    <link href="https://www.wenlincheng.com/posts/a822.html"/>
-    <id>https://www.wenlincheng.com/posts/a822.html</id>
-    <published>2020-02-09T03:18:00.000Z</published>
-    <updated>2020-04-30T02:51:28.795Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;a href=&quot;https://blog.csdn.net/csdnlijingran/article/details/88068598&quot; target=&quot;_blank&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="面试题" scheme="https://www.wenlincheng.com/categories/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
-    
-    
-      <category term="Redis" scheme="https://www.wenlincheng.com/tags/Redis/"/>
     
   </entry>
   
