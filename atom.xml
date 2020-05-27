@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.wenlincheng.com/"/>
-  <updated>2020-05-27T12:45:06.917Z</updated>
+  <updated>2020-05-27T12:55:30.431Z</updated>
   <id>https://www.wenlincheng.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>微信公众号Token认证</title>
+    <title>微信公众号Token验证</title>
     <link href="https://www.wenlincheng.com/posts/5058.html"/>
     <id>https://www.wenlincheng.com/posts/5058.html</id>
     <published>2020-05-27T12:04:00.000Z</published>
-    <updated>2020-05-27T12:45:06.917Z</updated>
+    <updated>2020-05-27T12:55:30.431Z</updated>
     
     <summary type="html">
     
@@ -29,8 +29,7 @@
       
         
         
-          &lt;p&gt;main.py&lt;/p&gt;
-&lt;pre class=&quot;line-numbers language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;&lt;span class=&quot;token comment&quot; spellcheck=&quot;true&quot;&gt;# -*-
+          &lt;p&gt;微信公众号开发之前需要配置服务器，配置服务器的时候要进行Token验证，具体方法可参考&lt;a
         
       
     
@@ -40,7 +39,7 @@
       <category term="微信开发" scheme="https://www.wenlincheng.com/categories/%E5%BE%AE%E4%BF%A1%E5%BC%80%E5%8F%91/"/>
     
     
-      <category term="Token" scheme="https://www.wenlincheng.com/tags/Token/"/>
+      <category term="Token验证" scheme="https://www.wenlincheng.com/tags/Token%E9%AA%8C%E8%AF%81/"/>
     
   </entry>
   
