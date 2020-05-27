@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.wenlincheng.com/"/>
-  <updated>2020-05-22T06:05:47.410Z</updated>
+  <updated>2020-05-27T12:32:02.199Z</updated>
   <id>https://www.wenlincheng.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>微信公众号Token认证</title>
+    <link href="https://www.wenlincheng.com/posts/5058.html"/>
+    <id>https://www.wenlincheng.com/posts/5058.html</id>
+    <published>2020-05-27T12:04:00.000Z</published>
+    <updated>2020-05-27T12:32:02.199Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;main.py&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;&lt;span class=&quot;token comment&quot; spellcheck=&quot;true&quot;&gt;# -*-
+        
+      
+    
+    </summary>
+    
+    
+      <category term="微信开发" scheme="https://www.wenlincheng.com/categories/%E5%BE%AE%E4%BF%A1%E5%BC%80%E5%8F%91/"/>
+    
+    
+      <category term="Token" scheme="https://www.wenlincheng.com/tags/Token/"/>
+    
+  </entry>
   
   <entry>
     <title>按照中文首字母排序Go语言实现</title>
@@ -553,33 +581,6 @@
     
     
       <category term="Python" scheme="https://www.wenlincheng.com/tags/Python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Maven面试题</title>
-    <link href="https://www.wenlincheng.com/posts/f4a5.html"/>
-    <id>https://www.wenlincheng.com/posts/f4a5.html</id>
-    <published>2020-02-12T04:10:00.000Z</published>
-    <updated>2020-04-30T02:52:12.363Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h3 id=&quot;一、Maven有哪些优点和缺点？&quot;&gt;&lt;a href=&quot;#一、Maven有哪些优点和缺点？&quot; class=&quot;headerlink&quot; title=&quot;一、Maven有哪些优点和缺点？&quot;&gt;&lt;/a&gt;一、Maven有哪些优点和缺点？&lt;/h3&gt;&lt;h4 id=&quot;优点&quot;&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="面试题" scheme="https://www.wenlincheng.com/categories/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
-    
-    
-      <category term="Maven" scheme="https://www.wenlincheng.com/tags/Maven/"/>
     
   </entry>
   
