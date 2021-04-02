@@ -264,6 +264,34 @@
   </entry>
   
   <entry>
+    <title>SpringBoot配置开放多端口</title>
+    <link href="https://www.wenlincheng.com/posts/eae6.html"/>
+    <id>https://www.wenlincheng.com/posts/eae6.html</id>
+    <published>2020-04-02T06:13:00.000Z</published>
+    <updated>2021-04-02T06:52:22.642Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在使用k8s存活探针的时候，如果需要增加端口专门用于存活探针的调用端口，可以通过以下方式开启多个端口。&lt;/p&gt;
+&lt;h4 id=&quot;新增扩展端口&quot;&gt;&lt;a href=&quot;#新增扩展端口&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="SpringBoot" scheme="https://www.wenlincheng.com/categories/SpringBoot/"/>
+    
+    
+      <category term="SpringBoot" scheme="https://www.wenlincheng.com/tags/SpringBoot/"/>
+    
+  </entry>
+  
+  <entry>
     <title>【学习资源】电子书分享（持续更新）</title>
     <link href="https://www.wenlincheng.com/posts/9da8.html"/>
     <id>https://www.wenlincheng.com/posts/9da8.html</id>
@@ -534,34 +562,6 @@
     
     
       <category term="Git" scheme="https://www.wenlincheng.com/tags/Git/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Spring面试题</title>
-    <link href="https://www.wenlincheng.com/posts/8791.html"/>
-    <id>https://www.wenlincheng.com/posts/8791.html</id>
-    <published>2020-02-06T02:18:00.000Z</published>
-    <updated>2020-11-16T02:55:33.747Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;img src=&quot;../images/loading.gif&quot; data-original=&quot;https://img.wenlincheng.com/blog/20201116105425.jpg&quot; alt=&quot;Spring Framework&quot;&gt;&lt;/p&gt;
-&lt;h3
-        
-      
-    
-    </summary>
-    
-    
-      <category term="面试题" scheme="https://www.wenlincheng.com/categories/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
-    
-    
-      <category term="Spring" scheme="https://www.wenlincheng.com/tags/Spring/"/>
     
   </entry>
   
